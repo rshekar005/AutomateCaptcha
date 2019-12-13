@@ -20,6 +20,7 @@ import net.sourceforge.tess4j.TesseractException;
 
 public class ReadCaptcha 
 {
+	///Adddedndmfnjdsfnkjdhfkj 
 	WebDriver driver;
 	@Test
 	public void test() throws IOException, TesseractException, InterruptedException
@@ -32,6 +33,7 @@ public class ReadCaptcha
 		options.addArguments("--disable-notifications");
 	    driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	    driver.findElement(By.xpath("(//button[@type='button'])[1]")).click();
+	    driver.findElement(By.xpath(".//input[@value='  Login Here  ']")).click();
 	    driver.findElement(By.xpath(".//input[@value='  Login Here  ']")).click();
 	    //Capturing captcha image in a file
 	    File src=driver.findElement(By.id("captchaImg")).getScreenshotAs(OutputType.FILE);
