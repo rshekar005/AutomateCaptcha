@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/fontbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/jbig2-imageio-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/jboss-vfs-3.2.12.Final.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/lept4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/pdfbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/pdfbox-tools-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/lib/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/New/Tess4J/dist/tess4j-3.4.8.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/fontbox-2.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/jbig2-imageio-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/jboss-vfs-3.2.14.Final.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/jcl-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/jna-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/jul-to-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/lept4j-1.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/log4j-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/pdfbox-2.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/pdfbox-debugger-2.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/pdfbox-tools-2.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/tess4j-4.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/Tess4j jars/xmlgraphics-commons-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/fontbox-2.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/jbig2-imageio-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/jboss-vfs-3.2.14.Final.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/jcl-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/jna-5.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/jul-to-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/lept4j-1.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/log4j-over-slf4j-1.7.26.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/pdfbox-2.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/pdfbox-debugger-2.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/pdfbox-tools-2.0.16.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/selenium-java-4.0.0-alpha-1.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/tess4j-4.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/tess4j-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/xmlgraphics-commons-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/AutomateCaptcha Jars/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/jcommander-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/API Automation Rest Assured/Jars/testng-6.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
